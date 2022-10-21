@@ -1,1 +1,1 @@
-more nested_functions and loop
+This repo is about learning functions and nested loops
